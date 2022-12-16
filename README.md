@@ -1,6 +1,6 @@
 # LA Crime Data Analysis and Visualization:
 
-## About
+## About the Project
 In this project, our objective is to analyze the crime data containing various crimes that occurred in Los Angeles for a period of time. We want to live in a world that is ideally safe and free of crimes. Unfortunately, that is not the case in the real world. <br />
 
 While such crimes are out of our control, We can use the data provided by the LAPD to aid the authorities by identifying the crime hotspots in Los Angeles and studying the patterns involved in these crimes, such as the type of neighborhood where these crimes occur. Through this analysis, we identify the patterns behind these crimes and go into further detail by pinpointing the frequent type of crimes, identifying the top most dangerous areas, and
