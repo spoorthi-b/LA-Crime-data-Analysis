@@ -26,11 +26,11 @@ The dataset has more than a million rows that delineate the crime incident. It h
 We have attached both html and ipynb files for our project, kindly refer to our html files only if you cannot run the ipynb files, as it preserves the visualization and does not require any installation. <br />
 <br />
  
-1. OLAP:
+1. OLAP: <br />
   &emsp;a. OLAP_AGE_ANALYSIS.ipynb: This file contains Age based Analysis, Age classification, Multi-level query on Age subset vs Crime Area. <br />
   &emsp;b. OLAP_WHEN_WHERE_HOW.ipynb: This file contains the code to preprocess and visualize the dataset and answers questions pertaining to crime across different time periods, weapons of choice on various premises, and typical crimes inflicted across various victim descent. <br />
   &emsp;c. OLAP_VICTIM_SEX_ANALYSIS.ipynb: This file contains the code to preprocess and visualize the dataset based on Victim’s Gender, Ethnicity, and Locality. <br />
   &emsp;d. OLAP_AREA.ipynb: This file contains code to preprocess and visualize crime dataset based on the area the time took place. <br />
   
-2. CLUSTERING ALGORITHM:
+2. CLUSTERING ALGORITHM: <br />
 &emsp;CLUSTERING_ALGO.ipynb: This file contains code for implementing three clustering models using PySpark and Pandas. Please run all cells from the beginning.
