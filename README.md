@@ -7,7 +7,7 @@
 ● Spark <br />
 ● MySQL <br />
 ● Python Libraries: <br />
-  "/t"○ PySpark <br />
+  &nbsp; ○ PySpark <br />
   ○ Pandas <br />
   ○ Matplotlib <br />
   ○ Seaborn <br />
