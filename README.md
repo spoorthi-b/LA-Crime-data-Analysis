@@ -8,13 +8,13 @@
 ● MySQL <br />
 ● Python Libraries: <br />
   &emsp;○ PySpark <br />
-  ○ Pandas <br />
-  ○ Matplotlib <br />
-  ○ Seaborn <br />
-  ○ Folium <br />
-  ○ Numpy <br />
-  ○ Geopandas <br />
-  ○ Shapely <br />
+  &emsp;○ Pandas <br />
+  &emsp;○ Matplotlib <br />
+  &emsp;○ Seaborn <br />
+  &emsp;○ Folium <br />
+  &emsp;○ Numpy <br />
+  &emsp;○ Geopandas <br />
+  &emsp;○ Shapely <br />
 Note: Our project is completely executed in a python 3 jupyter notebook environment. The initial requirements are listed above and then all the python libraries need to be installed in  the python console using pip or pip3.
 
 ## Dataset:
@@ -27,10 +27,10 @@ We have attached both html and ipynb files for our project, kindly refer to our 
 <br />
  
 1. OLAP:
-  a. OLAP_AGE_ANALYSIS.ipynb: This file contains Age based Analysis, Age classification, Multi-level query on Age subset vs Crime Area.
-  b. OLAP_WHEN_WHERE_HOW.ipynb: This file contains the code to preprocess and visualize the dataset and answers questions pertaining to crime across different time periods, weapons of choice on various premises, and typical crimes inflicted across various victim descent.
-  c. OLAP_VICTIM_SEX_ANALYSIS.ipynb: This file contains the code to preprocess and visualize the dataset based on Victim’s Gender, Ethnicity, and Locality.
-  d. OLAP_AREA.ipynb: This file contains code to preprocess and visualize crime dataset based on the area the time took place.
+  &emsp;a. OLAP_AGE_ANALYSIS.ipynb: This file contains Age based Analysis, Age classification, Multi-level query on Age subset vs Crime Area.
+  &emsp;b. OLAP_WHEN_WHERE_HOW.ipynb: This file contains the code to preprocess and visualize the dataset and answers questions pertaining to crime across different time periods, weapons of choice on various premises, and typical crimes inflicted across various victim descent.
+  &emsp;c. OLAP_VICTIM_SEX_ANALYSIS.ipynb: This file contains the code to preprocess and visualize the dataset based on Victim’s Gender, Ethnicity, and Locality.
+  &emsp;d. OLAP_AREA.ipynb: This file contains code to preprocess and visualize crime dataset based on the area the time took place.
   
 2. CLUSTERING ALGORITHM:
-CLUSTERING_ALGO.ipynb: This file contains code for implementing three clustering models using PySpark and Pandas. Please run all cells from the beginning.
+&emsp;CLUSTERING_ALGO.ipynb: This file contains code for implementing three clustering models using PySpark and Pandas. Please run all cells from the beginning.
