@@ -22,7 +22,7 @@ the python console using pip or pip3.
 The dataset has more than a million rows that delineate the crime incident. It has 28 attributes that contain numerical, text, and date-time data. You can download the dataset for the project from the link provided in 'dataset_link.txt' file
 
 ## Instructions:
-● Please unzip the F22-CS226-Code-13.tar.gz file and you will be able to find four ‘.ipynb’. 
+● Please unzip the F22-CS226-Code-13.tar.gz file and you will be able to find four ‘.ipynb’. <br />
 ● Please run the Jupyter Notebooks in the following order:
 We have attached both html and ipynb files for our project, kindly refer to our html files only if you cannot run the ipynb files, as it preserves the visualization and does not require any installation.
  
