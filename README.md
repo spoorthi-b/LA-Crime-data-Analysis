@@ -1,5 +1,14 @@
 # LA Crime Data Analysis and Visualization:
 
+## About
+In this project, our objective is to analyze the crime data containing various crimes that occurred in Los Angeles for a period of time. We want to live in a world that is ideally safe and free of crimes. Unfortunately, that is not the case in the real world. <br />
+
+While such crimes are out of our control, We can use the data provided by the LAPD to aid the authorities by identifying the crime hotspots in Los Angeles and studying the patterns involved in these crimes, such as the type of neighborhood where these crimes occur. Through this analysis, we identify the patterns behind these crimes and go into further detail by pinpointing the frequent type of crimes, identifying the top most dangerous areas, and
+specifying times with higher crime incidents. We then use clustering algorithms to highlight the areas with the highest crime rates and visualize the data in an informative manner. <br />
+
+There are many Clustering algorithms to choose from, and no single best clustering algorithm for all cases. We will KMeans, Bisecting KMeans and GMM clustering algorithms to determine the most effective. We will also use Big Data tools such as pySpark to preprocess the data and Spark SQL for OLAP, and these tools will enable us to process complex data from large datasets quickly and efficiently.
+
+
 ## Installation Requirements:
 ● Python3 <br />
 ● Jupyter Notebook <br />
