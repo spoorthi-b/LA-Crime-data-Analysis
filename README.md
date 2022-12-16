@@ -27,10 +27,10 @@ We have attached both html and ipynb files for our project, kindly refer to our 
 <br />
  
 1. OLAP:
-  &emsp;a. OLAP_AGE_ANALYSIS.ipynb: This file contains Age based Analysis, Age classification, Multi-level query on Age subset vs Crime Area.
-  &emsp;b. OLAP_WHEN_WHERE_HOW.ipynb: This file contains the code to preprocess and visualize the dataset and answers questions pertaining to crime across different time periods, weapons of choice on various premises, and typical crimes inflicted across various victim descent.
-  &emsp;c. OLAP_VICTIM_SEX_ANALYSIS.ipynb: This file contains the code to preprocess and visualize the dataset based on Victim’s Gender, Ethnicity, and Locality.
-  &emsp;d. OLAP_AREA.ipynb: This file contains code to preprocess and visualize crime dataset based on the area the time took place.
+  &emsp;a. OLAP_AGE_ANALYSIS.ipynb: This file contains Age based Analysis, Age classification, Multi-level query on Age subset vs Crime Area. <br />
+  &emsp;b. OLAP_WHEN_WHERE_HOW.ipynb: This file contains the code to preprocess and visualize the dataset and answers questions pertaining to crime across different time periods, weapons of choice on various premises, and typical crimes inflicted across various victim descent. <br />
+  &emsp;c. OLAP_VICTIM_SEX_ANALYSIS.ipynb: This file contains the code to preprocess and visualize the dataset based on Victim’s Gender, Ethnicity, and Locality. <br />
+  &emsp;d. OLAP_AREA.ipynb: This file contains code to preprocess and visualize crime dataset based on the area the time took place. <br />
   
 2. CLUSTERING ALGORITHM:
 &emsp;CLUSTERING_ALGO.ipynb: This file contains code for implementing three clustering models using PySpark and Pandas. Please run all cells from the beginning.
