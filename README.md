@@ -1,30 +1,30 @@
 # LA Crime Data Analysis and Visualization:
 
 ## Installation Requirements:
-● Python3
-● Jupyter Notebook
-● Java
-● Spark
-● MySQL
-● Python Libraries:
-  ○ PySpark 
-  ○ Pandas
-  ○ Matplotlib 
-  ○ Seaborn
-  ○ Folium
-  ○ Numpy
-  ○ Geopandas 
-  ○ Shapely
-Note: Our project is completely executed in a python 3 jupyter notebook environment. The initial requirements are listed above and then all the python libraries need to be installed in
-the python console using pip or pip3.
+● Python3 <br />
+● Jupyter Notebook <br />
+● Java <br />
+● Spark <br />
+● MySQL <br />
+● Python Libraries: <br />
+  ○ PySpark <br />
+  ○ Pandas <br />
+  ○ Matplotlib <br />
+  ○ Seaborn <br />
+  ○ Folium <br />
+  ○ Numpy <br />
+  ○ Geopandas <br />
+  ○ Shapely <br />
+Note: Our project is completely executed in a python 3 jupyter notebook environment. The initial requirements are listed above and then all the python libraries need to be installed in  the python console using pip or pip3.
 
 ## Dataset:
 The dataset has more than a million rows that delineate the crime incident. It has 28 attributes that contain numerical, text, and date-time data. You can download the dataset for the project from the link provided in 'dataset_link.txt' file
 
 ## Instructions:
 ● Please unzip the F22-CS226-Code-13.tar.gz file and you will be able to find four ‘.ipynb’. <br />
-● Please run the Jupyter Notebooks in the following order:
-We have attached both html and ipynb files for our project, kindly refer to our html files only if you cannot run the ipynb files, as it preserves the visualization and does not require any installation.
+● Please run the Jupyter Notebooks in the following order: <br />
+We have attached both html and ipynb files for our project, kindly refer to our html files only if you cannot run the ipynb files, as it preserves the visualization and does not require any installation. <br />
+<br />
  
 1. OLAP:
   a. OLAP_AGE_ANALYSIS.ipynb: This file contains Age based Analysis, Age classification, Multi-level query on Age subset vs Crime Area.
